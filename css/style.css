@@ -1,0 +1,31 @@
+
+   	.jumbotron 
+    {
+      background-color: #eda6a6;
+      padding: 2rem 2rem;
+   		display: flex;
+   		flex-direction: row;
+   	}
+   	.jumbotron img
+    {
+   		width: 700px;
+   	}
+    .jumbotron p
+    {
+      font-family: 'Permanent Marker' , cursive;
+    }
+    .jumbotron h1
+    {
+    font-family: 'Satisfy', cursive;
+
+    }
+    .bg-custom{
+      background-color: #eda6a6; 
+    }
+
+    .nav-link, .navbar-brand{
+      color: darkmagenta;
+    }
+    .navbar-text a{
+       color: black;
+    }
